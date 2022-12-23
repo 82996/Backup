@@ -1,0 +1,141 @@
+127.0.0.1 localhost
+
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+# [ Google FCM ]
+64.233.189.188 mtalk.google.com
+108.177.97.188 mtalk.google.com
+64.233.187.188 mtalk.google.com
+64.233.188.188 mtalk.google.com
+108.177.125.188 mtalk.google.com
+142.250.141.188 alt1-mtalk.google.com
+142.250.115.188 alt2-mtalk.google.com
+64.233.171.188 alt3-mtalk.google.com
+142.250.152.188 alt4-mtalk.google.com
+172.253.113.188 alt5-mtalk.google.com
+173.194.77.188 alt6-mtalk.google.com
+173.194.219.188 alt7-mtalk.google.com
+142.250.112.188 alt8-mtalk.google.com
+
+# [ Github ]
+20.27.177.113 github.com
+20.205.243.166 github.com
+20.248.137.48 github.com
+
+20.205.243.168 api.github.com
+20.27.177.116 api.github.com
+
+185.199.108.133 github-releases.githubusercontent.com
+185.199.111.133 github-releases.githubusercontent.com
+151.101.128.133 github-releases.githubusercontent.com
+185.199.108.133 objects.githubusercontent.com
+185.199.111.133 objects.githubusercontent.com
+151.101.128.133 objects.githubusercontent.com
+
+# [ Authy API ]
+54.87.105.231 api.authy.com
+34.206.147.111 api.authy.com
+52.4.47.158 api.authy.com
+54.89.145.37 api.authy.com
+
+# [ Steam Store ]
+23.45.60.78 store.steampowered.com
+223.119.143.208 store.steampowered.com
+223.119.226.96 store.steampowered.com
+23.196.37.224 help.steampowered.com
+
+# [ Google Download ]
+113.108.239.225 dl.google.com
+58.63.233.97 dl.google.com
+58.254.149.161 dl.google.com
+58.254.149.225 dl.google.com
+
+# [ JetBrains Plugins ]
+52.84.251.69 plugins.jetbrains.com
+52.84.251.106 plugins.jetbrains.com
+52.84.251.32 plugins.jetbrains.com
+52.84.225.77 plugins.jetbrains.com
+
+#[ jsdelivr ]
+199.232.209.229 cdn.jsdelivr.net
+
+# [ Spotify ]
+151.101.110.249 audio-fa.spotifycdn.com
+151.101.110.251 audio-fa.spotifycdn.com
+199.232.118.248 audio-fa.scdn.co
+167.82.94.248 audio-fa.scdn.co
+
+# [ Epic ]
+104.25.64.100 store.epicgames.com
+119.28.36.78 www.epicgames.com
+119.28.36.181 www.epicgames.com
+119.28.36.78 epicgames.com
+119.28.36.181 epicgames.com
+
+#[ OPGG ]
+52.84.251.35 op.gg
+52.84.251.35 www.op.gg
+52.84.251.35 pubg.op.gg
+52.84.251.35 overwatch.op.gg
+52.84.251.35 ocm-api.op.gg
+52.84.251.35 talk.op.gg
+52.84.251.35 news.op.gg
+52.84.251.35 duo.op.gg
+52.84.251.35 er.op.gg
+52.84.251.35 valorant.op.gg
+52.84.251.35 qwer.gg
+52.84.251.35 log.op.gg
+
+52.84.251.51 op.gg
+52.84.251.51 www.op.gg
+52.84.251.51 pubg.op.gg
+52.84.251.51 overwatch.op.gg
+52.84.251.51 ocm-api.op.gg
+52.84.251.51 talk.op.gg
+52.84.251.51 news.op.gg
+52.84.251.51 duo.op.gg
+52.84.251.51 er.op.gg
+52.84.251.51 valorant.op.gg
+52.84.251.51 qwer.gg
+52.84.251.51 log.op.gg
+
+52.84.251.24 op.gg
+52.84.251.24 www.op.gg
+52.84.251.24 pubg.op.gg
+52.84.251.24 overwatch.op.gg
+52.84.251.24 ocm-api.op.gg
+52.84.251.24 talk.op.gg
+52.84.251.24 news.op.gg
+52.84.251.24 duo.op.gg
+52.84.251.24 er.op.gg
+52.84.251.24 valorant.op.gg
+52.84.251.24 qwer.gg
+52.84.251.24 log.op.gg
+
+52.84.251.32 op.gg
+52.84.251.32 www.op.gg
+52.84.251.32 pubg.op.gg
+52.84.251.32 overwatch.op.gg
+52.84.251.32 ocm-api.op.gg
+52.84.251.32 talk.op.gg
+52.84.251.32 news.op.gg
+52.84.251.32 duo.op.gg
+52.84.251.32 er.op.gg
+52.84.251.32 valorant.op.gg
+52.84.251.32 qwer.gg
+52.84.251.32 log.op.gg
+
+# [ Fuck AD ]
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 wxsnsdy.wxs.qq.com
+0.0.0.0 wxsnsdythumb.wxs.qq.com
+0.0.0.0 wxa.wxs.qq.com
+0.0.0.0 as.weixin.qq.com
+0.0.0.0 ad.weixin.qq.com
+0.0.0.0 api.so.lianmeng.360.cn
+0.0.0.0 s.lianmeng.360.cn
+0.0.0.0 pos.baidu.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 cpro.baidu.com
