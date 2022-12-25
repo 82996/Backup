@@ -67,13 +67,6 @@ ff02::2 ip6-allrouters
 199.232.118.248 audio-fa.scdn.co
 167.82.94.248 audio-fa.scdn.co
 
-# [ Epic ]
-104.25.64.100 store.epicgames.com
-119.28.36.78 www.epicgames.com
-119.28.36.181 www.epicgames.com
-119.28.36.78 epicgames.com
-119.28.36.181 epicgames.com
-
 #[ OPGG ]
 52.84.251.35 op.gg
 52.84.251.35 www.op.gg
